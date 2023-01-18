@@ -1,3 +1,4 @@
+![p2](https://user-images.githubusercontent.com/110841289/213193935-6dc5618b-b1a6-466f-88aa-f603d184ff0d.png)
 # Análise de faturamento de empresa funerária
 * Respondendo algumas perguntas de negócio 
 * Gerando insights em gráficos no Power BI
