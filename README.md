@@ -9,6 +9,7 @@
   <H1 align="center"> Data Analysis </H1>
   <h2> Ciclo de Vida Ciência de Dados </h2>
   <ul>
+      <li><img src="https://user-images.githubusercontent.com/110841289/213749996-ee7a4a6c-9fbc-4c29-86ba-b758ead5f0f9.jpeg" align="right" width=300 heigth=300></li>
     <li> Entender o Problema </li>
     <li> Coletar os Dados </li>
     <li> Processar os Dados </li>
@@ -16,7 +17,9 @@
     <li> Comunicar os Resultados </li>
     <li> Feedback </li>
   </ul>
-  <img src="https://user-images.githubusercontent.com/110841289/213749996-ee7a4a6c-9fbc-4c29-86ba-b758ead5f0f9.jpeg">
+  <br>
+  <br>
+  <br>
   <h2> Tipos de Dados </h2>
   <ol>
     <li> Em relação aos tipos de armazenamentos os dados podem ser <strong>numéricos ou categóricos</strong></li>
