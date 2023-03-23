@@ -6,20 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <H1 align="center"> Data Analysis </H1>
-  <h1> Ciclo de Vida Ciência de Dados </h1>
+  <H1 align="center"> Web Scrapping MercadoLivre </H1>
   <ul>
-    <li> Entender o Problema </li>
-    <li> Coletar os Dados </li>
-    <li> Processar os Dados </li>
-    <li> Exploração dos Dados </li>
-    <li> Comunicar os Resultados </li>
-    <li> Feedback </li>
+    <li> Script do projeto feito em <b>Python</b> </li>
+    <li> Exibição dos dados feito em <b>Power BI</b> </li>
   </ul>
-  <img src="https://user-images.githubusercontent.com/110841289/213749996-ee7a4a6c-9fbc-4c29-86ba-b758ead5f0f9.jpeg">
+  
+  <img src="https://user-images.githubusercontent.com/110841289/227204951-fdedbd0d-cfe8-44d7-bcf0-0225e97866fa.png">
+  
   <h1> Sobre mim: </h1>
   <a href="https://www.linkedin.com/in/airton-f-225784255/">
-  <img src="https://user-images.githubusercontent.com/110841289/224358942-846f52a8-6945-49ca-8aa7-6719b2f1c603.png">
+  <img src="https://user-images.githubusercontent.com/110841289/227205808-1380082c-8f29-4bb0-82d1-386f3373cf26.png", width=65, heigth=70>
   </a>
   <a href="https://www.instagram.com/faa_bry/">
   <img src="https://user-images.githubusercontent.com/110841289/224359564-da97e372-92b5-4229-9d73-eee2779e16c4.png">
