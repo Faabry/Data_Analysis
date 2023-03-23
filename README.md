@@ -23,6 +23,7 @@
   <h2> Tipos de Dados </h2>
   <ol>
     <li> Em relação aos tipos de armazenamentos os dados podem ser <strong>numéricos ou categóricos</strong></li>
+    <br>
       <ul>
           <li> <b>Dados Qualitativos</b> </li>
           <ul>
@@ -35,7 +36,24 @@
               <li>Contínua: Dados que seguem um padrão crescente ou decrescente como por exemplo altura, peso etc.</li>
           </ul>
       </ul>
+      <br>
     <li> Em relação à fonte de dados eles podem ser <strong>primários ou secundários</strong></li>
+    <br>
+      <ul>
+          <li> <b>Dados Primários</b> </li>
+            <ul>
+                <li>São dados próprios, geralmente são gerados dentro da própria empresa, podem facilmente ser manipulados pelo analista de dados.</li>
+            </ul>
+          <li> <b>Dados Secundários</b> </li>
+          <ul>
+              <li>Não são dados próprios, geralmente são fornecidos por terceiros ou em alguns casos alguma parceria de troca de informações, esse tipo de dado não é de domínio público</li>
+          </ul>
+          <li> <b>Dados Terciários </b> </li>
+              <ul>
+                  <li> Assim como os dados secundários, os dados terciário são fornecidos por terceiros, a única diferença é que eles são de domínio público.</li>
+          </ul>
+      </ul>
+      <br>
     <li> Em relação à linguagem de programação eles podem ser <strong>primitivos ou não primitivos</strong></li>
     <li> Independente dos itens anteriores os dados podem ser <strong>estruturados ou não estruturados</strong></li>
   </ol>
