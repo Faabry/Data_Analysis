@@ -17,6 +17,13 @@
     <li> Feedback </li>
   </ul>
   <img src="https://user-images.githubusercontent.com/110841289/213749996-ee7a4a6c-9fbc-4c29-86ba-b758ead5f0f9.jpeg">
+  <h1> Tipos de Dados </h1>
+  <ol>
+    <li> Em relação aos tipos de armazenamentos os dados podem ser numéricos ou categóricos</li>
+    <li> Em relação à fonte de dados eles podem ser primários ou secundários</li>
+    <li> Em relação à linguagem de programação eles podem ser primitivos ou não primitivos</li>
+    <li> Independente dos itens anteriores os dados podem ser estruturados ou não estruturados</li>
+  </ol>
   <h1> Sobre mim: </h1>
   <a href="https://www.linkedin.com/in/airton-f-225784255/">
   <img src="https://user-images.githubusercontent.com/110841289/224358942-846f52a8-6945-49ca-8aa7-6719b2f1c603.png">
