@@ -24,15 +24,15 @@
   <ol>
     <li> Em relação aos tipos de armazenamentos os dados podem ser <strong>numéricos ou categóricos</strong></li>
       <ul>
-          <li> <b>Qualitativas</b> </li>
+          <li> <b>Dados Qualitativos</b> </li>
           <ul>
               <li>Nominal: Profissão, Sexo, Religião</li>
-              <li>Ordinal: Dados que tem uma hierarquia como por exemplo escolaridade</li>
+              <li>Ordinal: Dados que tem uma hierarquia como por exemplo escolaridade.</li>
           </ul>
-          <li> <b>Quantitativas</b> </li>
+          <li> <b>Dados Quantitativos</b> </li>
           <ul>
-              <li>Discreta</li>
-              <li>Contínua</li>
+              <li>Discreta: Dados numéricos sem nenhuma relação como por exemplo nº de filhos</li>
+              <li>Contínua: Dados que seguem um padrão crescente ou decrescente como por exemplo altura, peso etc.</li>
           </ul>
       </ul>
     <li> Em relação à fonte de dados eles podem ser <strong>primários ou secundários</strong></li>
