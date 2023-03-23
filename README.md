@@ -32,8 +32,8 @@
           </ul>
           <li> <b>Dados Quantitativos</b> </li>
           <ul>
-              <li>Discreta: Dados numéricos sem nenhuma relação como por exemplo nº de filhos</li>
-              <li>Contínua: Dados que seguem um padrão crescente ou decrescente como por exemplo altura, peso etc.</li>
+              <li>Discreta: Dados numéricos de valores <i>inteiros</i> como por exemplo nº de filhos</li>
+              <li>Contínua: Dados numéricos de valores <i>decimais</i> como por exemplo altura, peso etc.</li>
           </ul>
       </ul>
       <br>
@@ -55,6 +55,18 @@
       </ul>
       <br>
     <li> Em relação à linguagem de programação eles podem ser <strong>primitivos ou não primitivos</strong></li>
+      <br>
+      <ul>
+          <li> <b>Dados Primitivos</b> </li>
+            <ul>
+                <li>Dados do tipo <i>int, str, float, booelan</i> </li>
+            </ul>
+          <li> <b>Dados não Primitivos</b> </li>
+            <ul>
+                <li>Dados do tipo <i>list, tuple, dict</i> </li>
+             </ul>
+      </ul>
+      <br>
     <li> Independente dos itens anteriores os dados podem ser <strong>estruturados ou não estruturados</strong></li>
   </ol>
   <h1> Sobre mim: </h1>
