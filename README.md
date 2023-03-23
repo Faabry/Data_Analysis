@@ -67,7 +67,14 @@
              </ul>
       </ul>
       <br>
-    <li> Independente dos itens anteriores os dados podem ser <strong>estruturados ou não estruturados</strong></li>
+    <li> Independente dos itens anteriores os dados podem ser <strong>estruturados, semi estruturados ou não estruturados</strong></li>
+      <ul>
+          <li> <b>Dados Estruturados</b> </li>
+          <ul>
+              <li>São dados que seguem uma classificação e lógica formal, geralmente são dados em formatos tabulares como em bancos de dados relacionais ou planilhas do Excel. </li>
+          </ul>
+          <li> <b>Dados Semi Estruturados</b> </li>
+      </ul>
   </ol>
   <h1> Sobre mim: </h1>
   <a href="https://www.linkedin.com/in/airton-f-225784255/">
