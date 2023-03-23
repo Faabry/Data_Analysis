@@ -7,7 +7,7 @@
 </head>
 <body>
   <H1 align="center"> Data Analysis </H1>
-  <h1> Ciclo de Vida Ciência de Dados </h1>
+  <h2> Ciclo de Vida Ciência de Dados </h2>
   <ul>
     <li> Entender o Problema </li>
     <li> Coletar os Dados </li>
@@ -17,12 +17,12 @@
     <li> Feedback </li>
   </ul>
   <img src="https://user-images.githubusercontent.com/110841289/213749996-ee7a4a6c-9fbc-4c29-86ba-b758ead5f0f9.jpeg">
-  <h1> Tipos de Dados </h1>
+  <h2> Tipos de Dados </h2>
   <ol>
-    <li> Em relação aos tipos de armazenamentos os dados podem ser numéricos ou categóricos</li>
-    <li> Em relação à fonte de dados eles podem ser primários ou secundários</li>
-    <li> Em relação à linguagem de programação eles podem ser primitivos ou não primitivos</li>
-    <li> Independente dos itens anteriores os dados podem ser estruturados ou não estruturados</li>
+    <li> Em relação aos tipos de armazenamentos os dados podem ser <strong>numéricos ou categóricos</strong></li>
+    <li> Em relação à fonte de dados eles podem ser <strong>primários ou secundários</strong></li>
+    <li> Em relação à linguagem de programação eles podem ser <strong>primitivos ou não primitivos</strong></li>
+    <li> Independente dos itens anteriores os dados podem ser <strong>estruturados ou não estruturados</strong></li>
   </ol>
   <h1> Sobre mim: </h1>
   <a href="https://www.linkedin.com/in/airton-f-225784255/">
