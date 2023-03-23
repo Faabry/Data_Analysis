@@ -68,14 +68,27 @@
       </ul>
       <br>
     <li> Independente dos itens anteriores os dados podem ser <strong>estruturados, semi estruturados ou não estruturados</strong></li>
+    <br>
       <ul>
           <li> <b>Dados Estruturados</b> </li>
           <ul>
               <li>São dados que seguem uma classificação e lógica formal, geralmente são dados em formatos tabulares como em bancos de dados relacionais ou planilhas do Excel. </li>
           </ul>
           <li> <b>Dados Semi Estruturados</b> </li>
+          <ul>
+              <li>São dados sem uma devida organização, no entanto já estão classificados de alguma forma, portanto a compreensão de como os dados estão separados é mais fácil, mas ainda sim algum trabalho de estruturação será necessária. Alguns exemplos de dados semi estruturados são arquivos no formato XML, JSON.</li>
+          </ul>
+          <li> <b>Dados Não Estruturados</b> </li>
+          <ul>
+              <li>Dados não estruturados são informações que não possuem um formato fixo ou organização pré-definida, tornando-se mais difíceis de serem processados e analisados de maneira convencional.</li>
+          </ul>
       </ul>
   </ol>
+  <br>
+  <h3> OBS: </h3>
+    <ul>
+        <li> <b>Não existe análise de Dados Não Estruturados</b>, os dados devem ser pré processados para que se tornem esruturados antes de qualquer análise.</li>
+    </ul>
   <h1> Sobre mim: </h1>
   <a href="https://www.linkedin.com/in/airton-f-225784255/">
   <img src="https://user-images.githubusercontent.com/110841289/224358942-846f52a8-6945-49ca-8aa7-6719b2f1c603.png">
