@@ -19,8 +19,12 @@ Não é muito indicada para uma grande quantidade de categorias.</li>
     <br>
 <img src="https://user-images.githubusercontent.com/110841289/231240348-6ffb8c25-d738-4114-8b44-0ded611de8fe.png")
 </ul>
-
 </p>
-
-
+<h1> Sobre mim: </h1>
+  <a href="https://www.linkedin.com/in/airton-f-225784255/">
+  <img src="https://user-images.githubusercontent.com/110841289/224358942-846f52a8-6945-49ca-8aa7-6719b2f1c603.png">
+  </a>
+  <a href="https://www.instagram.com/faa_bry/">
+  <img src="https://user-images.githubusercontent.com/110841289/224359564-da97e372-92b5-4229-9d73-eee2779e16c4.png">
+  </a>
 
