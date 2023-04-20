@@ -2,9 +2,9 @@
 <p><a href="http://myanimelist.net/topanime.php">http://myanimelist.net/topanime.php</a></p>
 <p>Este projeto foi feito em 4 etapas.</p>
 <ul>
-    <li> <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/1_Web_Scraping.ipynb">Web Scraping</a> - Extraí todas as informações desejadas do site.</li>
-    <li> <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/2_Combination.ipynb">Combination</a> - Combinei os dados e os converti para um dataframe.</li>
-    <li> <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/3_Limpeza_dos_Dados.ipynb">Limpeza dos Dados</a> - Tratamento dos dados para que pudessem ser analisados posteriormente.</li>
+    <li> <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/1_Web_Scraping.ipynb">Web Scraping</a> - Extraindo todas as informações desejadas do site.</li>
+    <li> <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/2_Combination.ipynb">Combination</a> - Combinando os dados e os convertendo para um dataframe.</li>
+    <li> <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/3_Limpeza_dos_Dados.ipynb">Limpeza dos Dados</a> - Tratamento dos dados para que possam ser analisados posteriormente.</li>
     <li> <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/4_An%C3%A1lise_de_Dados.ipynb">Análise de Dados</a> - Respondendo perguntas de negócios através dos dados.</li>
 </ul>
   <h1> Sobre mim: </h1>
