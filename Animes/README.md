@@ -2,10 +2,10 @@
 <p><a href="http://myanimelist.net/topanime.php">http://myanimelist.net/topanime.php</a></p>
 <p>Este projeto foi feito em 4 etapas.</p>
 <ul>
-    <li> <b>Web Scraping</b> - Extraí todas as informações desejadas do site.</li>
-    <li> <b>Combination</b> - Combinei os dados e os converti para um dataframe.</li>
-    <li> <b>Limpeza dos Dados</b> - Tratamento dos dados para que pudessem ser analisados posteriormente.</li>
-    <li> <b>Análise de Dados</b> - Respondendo perguntas de negócios através dos dados.</li>
+    <li> <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/1_Web_Scraping.ipynb">Web Scraping</a> - Extraí todas as informações desejadas do site.</li>
+    <li> <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/2_Combination.ipynb">Combination</a> - Combinei os dados e os converti para um dataframe.</li>
+    <li> <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/3_Limpeza_dos_Dados.ipynb">Limpeza dos Dados</a> - Tratamento dos dados para que pudessem ser analisados posteriormente.</li>
+    <li> <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/4_An%C3%A1lise_de_Dados.ipynb">Análise de Dados</a> - Respondendo perguntas de negócios através dos dados.</li>
 </ul>
   <h1> Sobre mim: </h1>
   <a href="https://www.linkedin.com/in/airton-f-225784255/">
