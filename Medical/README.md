@@ -6,88 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <H1 align="center"> Data Analysis </H1>
-  <h2> Ciclo de Vida Ciência de Dados </h2>
-  <ul>
-      <li><img src="https://user-images.githubusercontent.com/110841289/213749996-ee7a4a6c-9fbc-4c29-86ba-b758ead5f0f9.jpeg" align="right" width=300 heigth=300></li>
-    <li> Entender o Problema </li>
-    <li> Coletar os Dados </li>
-    <li> Processar os Dados </li>
-    <li> Exploração dos Dados </li>
-    <li> Comunicar os Resultados </li>
-    <li> Feedback </li>
-  </ul>
-  <br>
-  <br>
-  <br>
-  <h2> Tipos de Dados </h2>
-  <ol>
-    <li> Em relação aos tipos de armazenamentos os dados podem ser <strong>numéricos ou categóricos</strong></li>
-    <br>
-      <ul>
-          <li> <b>Dados Qualitativos</b> </li>
-          <ul>
-              <li>Nominal: Profissão, Sexo, Religião</li>
-              <li>Ordinal: Dados que tem uma hierarquia como por exemplo escolaridade.</li>
-          </ul>
-          <li> <b>Dados Quantitativos</b> </li>
-          <ul>
-              <li>Discreta: Dados numéricos de valores <i>inteiros</i> como por exemplo nº de filhos</li>
-              <li>Contínua: Dados numéricos de valores <i>decimais</i> como por exemplo altura, peso etc.</li>
-          </ul>
-      </ul>
-      <br>
-    <li> Em relação à fonte de dados eles podem ser <strong>primários ou secundários</strong></li>
-    <br>
-      <ul>
-          <li> <b>Dados Primários</b> </li>
-            <ul>
-                <li>São dados próprios, geralmente são gerados dentro da própria empresa, podem facilmente ser manipulados pelo analista de dados.</li>
-            </ul>
-          <li> <b>Dados Secundários</b> </li>
-          <ul>
-              <li>Não são dados próprios, geralmente são fornecidos por terceiros ou em alguns casos alguma parceria de troca de informações, esse tipo de dado não é de domínio público</li>
-          </ul>
-          <li> <b>Dados Terciários </b> </li>
-              <ul>
-                  <li> Assim como os dados secundários, os dados terciário são fornecidos por terceiros, a única diferença é que eles são de domínio público.</li>
-          </ul>
-      </ul>
-      <br>
-    <li> Em relação à linguagem de programação eles podem ser <strong>primitivos ou não primitivos</strong></li>
-      <br>
-      <ul>
-          <li> <b>Dados Primitivos</b> </li>
-            <ul>
-                <li>Dados do tipo <i>int, str, float, booelan</i> </li>
-            </ul>
-          <li> <b>Dados não Primitivos</b> </li>
-            <ul>
-                <li>Dados do tipo <i>list, tuple, dict</i> </li>
-             </ul>
-      </ul>
-      <br>
-    <li> Independente dos itens anteriores os dados podem ser <strong>estruturados, semi estruturados ou não estruturados</strong></li>
-    <br>
-      <ul>
-          <li> <b>Dados Estruturados</b> </li>
-          <ul>
-              <li>São dados que seguem uma classificação e lógica formal, geralmente são dados em formatos tabulares como em bancos de dados relacionais ou planilhas do Excel. </li>
-          </ul>
-          <li> <b>Dados Semi Estruturados</b> </li>
-          <ul>
-              <li>São dados sem uma devida organização, no entanto já estão classificados de alguma forma, portanto a compreensão de como os dados estão separados é mais fácil, mas ainda sim algum trabalho de estruturação será necessária. Alguns exemplos de dados semi estruturados são arquivos no formato XML, JSON.</li>
-          </ul>
-          <li> <b>Dados Não Estruturados</b> </li>
-          <ul>
-              <li>Dados não estruturados são informações que não possuem um formato fixo ou organização pré-definida, tornando-se mais difíceis de serem processados e analisados de maneira convencional.</li>
-          </ul>
-      </ul>
-  </ol>
-  <br>
-  <h3> OBS: </h3>
+  <h1> Engenharia de Atributos em Dados Médicos </h1>
+  <img align="center" src="https://github.com/Faabry/Data_Analysis/assets/110841289/13b4b70b-4733-4f17-96d4-6cc6ae2e3ce0" style={"width: 600px;height:200px"}>
+    <h1>Engenharia de Atributos</h1>
+    <p>Na etapa de <a href="https://github.com/Faabry/Data_Analysis/blob/main/Medical/Dados%20M%C3%A9dicos%20pt1.ipynb">Engenharia de Atributos</a>, foram realizadas as seguintes atividades:</p>
     <ul>
-        <li> <b>Não existe análise de Dados Não Estruturados</b>, os dados devem ser pré processados para que se tornem esruturados antes de qualquer análise.</li>
+        <li>Recategorização de variáveis: foram feitas transformações nas variáveis existentes, visando agrupá-las ou representá-las de forma mais adequada para análise posterior.</li>
+        <li>Ajuste da variável alvo "readmitted": foi realizada uma revisão e ajuste na variável alvo, buscando torná-la mais precisa e útil para o estudo em questão.</li>
+        <li>Criação de novas variáveis: a partir das variáveis existentes, foram criadas novas variáveis com o objetivo de reduzir o tamanho do conjunto de dados e facilitar a análise exploratória e diagnóstica. Essas variáveis foram cuidadosamente escolhidas para fornecer informações relevantes para o estudo.</li>
+    </ul>
+    <h1>Análise Exploratória</h1>
+    <p>Na etapa de <a href="https://github.com/Faabry/Data_Analysis/blob/main/Medical/Dados%20Medicos%20pt2.ipynb">Análise Exploratória</a>, foram gerados vários gráficos comparativos entre as variáveis e a variável alvo. Essa análise teve como propósito identificar relações ou padrões nos dados, fornecendo insights valiosos para o estudo em questão.
+        <li> onde eu gerei vários gráficos para comparar as variáveis em relação à varuável alvo afim de encontrar alguma relçaão ou padronização nos dados.</li>
+        <li>O projeto apresentado neste repositório é resultado de um trabalho cuidadoso de Engenharia de Atributos e Análise Exploratória, visando fornecer uma base sólida para futuras análises e estudos relacionados. O projeto é parte do curso de Data Science da <a href="datascienceacademy.com.br">Data Science Academy.</a></li>
     </ul>
   <h1> Sobre mim: </h1>
   <a href="https://www.linkedin.com/in/airton-f-225784255/">
@@ -98,7 +29,3 @@
   </a>
 </body>
 </html>
-
-
-
-
