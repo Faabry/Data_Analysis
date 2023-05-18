@@ -1,19 +1,20 @@
 <h1><b>Análise de Dados Animes</b></h1>
 <p><a href="http://myanimelist.net/topanime.php">http://myanimelist.net/topanime.php</a></p>
+<img src="https://github.com/Faabry/Data_Analysis/assets/110841289/ab6742f4-bf4d-421c-aa82-17a2e798a01d">
 <p>Este projeto de análise de dados de animes foi desenvolvido em 4 etapas principais. O objetivo do projeto é obter insights e responder perguntas de negócios relacionadas aos dados extraídos do site MyAnimeList.</p>
-<h2>Web scraping</h2>
+<h1>Web scraping</h1>
 <ul>
     <li>Na primeira etapa, foi realizado o <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/1_Web_Scraping.ipynb">web scraping</a> do site <a href="http://myanimelist.net/topanime.php">MyAnimeList</a>. Foram extraídas todas as informações relevantes dos animes presentes no site, como título, classificação, gênero, número de episódios, entre outros. O web scraping permitiu obter um conjunto de dados amplo e abrangente para a análise.</li>
 </ul>
-<h2>Combination</h2>
+<h1>Combination</h1>
 <ul>
     <li>A etapa de <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/2_Combination.ipynb">Combination</a> envolveu a combinação dos dados extraídos e sua conversão para um formato adequado para análise. Os dados obtidos por meio do web scraping foram consolidados em um dataframe, que serviu como base para as etapas subsequentes.</li>
 </ul>
-<h2>Limpeza dos Dados</h2>
+<h1>Limpeza dos Dados</h1>
 <ul>
     <li>Na etapa de <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/3_Limpeza_dos_Dados.ipynb">Limpeza dos Dados</a>, foram realizados diversos tratamentos para garantir a qualidade e a consistência dos dados. Isso incluiu a remoção de valores duplicados, o preenchimento de valores faltantes e a correção de possíveis erros ou inconsistências nos dados extraídos. Essa etapa foi fundamental para preparar os dados para as análises posteriores.</li>
 </ul>
-<h2>Análise de Dados</h2>
+<h1>Análise de Dados</h1>
 <ul>
     <li>A etapa final do projeto envolveu a <a href="https://github.com/Faabry/Data_Analysis/blob/main/Animes/4_An%C3%A1lise_de_Dados.ipynb">Análise de Dados</a> tratados e a resposta a perguntas de negócios específicas com base nessas informações. Foram utilizadas técnicas estatísticas, visualizações de dados e outras abordagens analíticas para obter insights relevantes sobre os animes. As análises realizadas permitiram compreender melhor os padrões, as preferências e as características dos animes presentes nos dados.</li>
 </ul>
