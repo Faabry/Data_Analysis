@@ -27,18 +27,3 @@
   </a>
 </body>
 </html>
-
-
-
-
-
-Combination
-combination 
-
-Limpeza dos Dados
-limpeza dos dados
-
-Análise de Dados
-análise dos dados 
-
-O projeto de análise de dados de animes descrito neste repositório representa um esforço abrangente para extrair, limpar e analisar dados do site MyAnimeList, com o objetivo de fornecer informações valiosas para tomadas de decisão e insights de negócios relacionados ao universo dos animes.
