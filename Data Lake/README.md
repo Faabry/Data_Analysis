@@ -4,6 +4,7 @@
 <p>Utilizei técnicas poderosas de <b>manipulação</b> e <b>visualização de dados</b> para criar gráficos que facilitaram a interpretação dos resultados obtidos. A combinação do poder da biblioteca pymongo com as capacidades do Python me permitiu explorar e analisar o conjunto de dados de maneira eficiente.
 
 Estou entusiasmado em compartilhar <a href="https://github.com/Faabry/Data_Analysis/blob/main/Data%20Lake/Data%20Lake.ipynb">esse projeto</a>, que exemplifica o uso de ferramentas adequadas para a análise de dados não estruturados. Aprender e aplicar essas técnicas tem sido fundamental para aprimorar minhas habilidades.</p>
+<p>PS: Este projeto foi desenvolvido no curso de Python Para Data Science da <a href="https://www.datascienceacademy.com.br/">Data Science Academy.</a></p>
   <h3> OBS: </h3>
     <ul>
         <li> <b>Não existe análise de Dados Não Estruturados</b>, os dados devem ser pré processados para que se tornem esruturados antes de qualquer análise.</li>
