@@ -18,7 +18,7 @@
     <h1>Análise Exploratória</h1>
     <p>Na etapa de <a href="https://github.com/Faabry/Data_Analysis/blob/main/Medical/Dados%20Medicos%20pt2.ipynb">Análise Exploratória</a>, foram gerados vários gráficos comparativos entre as variáveis e a variável alvo. Essa análise teve como propósito identificar relações ou padrões nos dados, fornecendo insights valiosos para o estudo em questão.
         <li> onde eu gerei vários gráficos para comparar as variáveis em relação à varuável alvo afim de encontrar alguma relçaão ou padronização nos dados.</li>
-        <li>O projeto apresentado neste repositório é resultado de um trabalho cuidadoso de Engenharia de Atributos e Análise Exploratória, visando fornecer uma base sólida para futuras análises e estudos relacionados. O projeto é parte do curso de Data Science da <a href="www.datascienceacademy.com.br">Data Science Academy.</a></li>
+        <li>O projeto apresentado neste repositório é resultado de um trabalho cuidadoso de Engenharia de Atributos e Análise Exploratória, visando fornecer uma base sólida para futuras análises e estudos relacionados. O projeto é parte do curso de Data Science da <a href="https://www.datascienceacademy.com.br/">Data Science Academy.</a></li>
     </ul>
   <h1> Sobre mim: </h1>
   <a href="https://www.linkedin.com/in/airton-f-225784255/">
