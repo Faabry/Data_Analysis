@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <H1 align="center"> Data Analysis </H1>
-  <h3>Column Info:</h3>
+  <h1 align="center">Portland Crimes Analysis</h1>
+    <img src="img/crime.jpeg" height=400px width=900px>
+  <h1>Column Info:</h1>
   <ul>
     <li><b>Address:</b> Address of reported incident at the 100 block level (e.g.: 1111 SW 2nd Ave would be 1100 Block SW 2nd Ave).</li>
     <br>
