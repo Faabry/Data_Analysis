@@ -1,39 +1,56 @@
-- apesar da russia ter o maior território em km2, apenas 13% de toda a sua área é dedicada à agricultura
-
-- além de estar entre o top 10 com maior espaço territorial em km2 o kazaqstão é o 3º país com maior espaço dedicado à agricultura, estando atrás apenas de Uruguai e Arábia Saudita
-
-- China, india, estados unidos, brasil e russia estão presentes no top 10 highest countries land(km2) com maior população e também no top mundial
-
-- Considerando o top 10 highest countries land(km2) e o top mundial china e india lideram com o maior nº de população
-
-
-- Apesar da india ser um dos mais populosos países, apenas 34% de sua população reside em áreas urbanizadas.
-
-
-- Do top 10 highest countries land(km2) argentina tem a maior população vivendo em àreas urbanizadas
-
-
-- Quanto maior o percentual de àrea agricola, menor é o percentual de florestas.
-
-
-- Quanto maior a população maior a taxa de desemprego
-
-
-
-Temos uma correlação 0.87 entre a taxa de natalidade e a taxa de mortalidade infantil:
-
-Isso significa que em populações com taxas de natalidade mais altas, também é observada uma taxa mais alta de mortalidade infantil. Isso pode ser explicado por vários fatores:
-
-  - Recursos Limitados: Em áreas com altas taxas de natalidade, as famílias podem enfrentar limitações de recursos, como acesso limitado a cuidados médicos, saneamento inadequado e falta de nutrição adequada para as mães e recém-nascidos.
-
-  - Falta de Cuidados Médicos: Em locais com altas taxas de natalidade, pode haver dificuldade em fornecer cuidados médicos e assistência adequada a todas as mães e bebês, o que pode aumentar o risco de mortalidade infantil.
-
-  - Condições de Saúde Púbica: Regiões com altas taxas de natalidade podem ter infraestrutura de saúde pública insuficiente para lidar com a demanda, resultando em cuidados de saúde de qualidade inferior para recém-nascidos e mães.
-
-  - Educação sobre Saúde Materno-Infantil: Em algumas áreas com altas taxas de natalidade, pode haver falta de conscientização sobre saúde materno-infantil e práticas de higiene, o que contribui para a mortalidade infantil.
-
-  - Fatores Socioeconômicos: A correlação também pode ser influenciada por fatores socioeconômicos, como níveis de pobreza, acesso a educação e status das mulheres na sociedade. Populações com altas taxas de natalidade e condições socioeconômicas precárias podem enfrentar maiores riscos de mortalidade infantil.
-
-
-Quanto maior a média de expectativa de vida de um país, menor a taxa de mortalidade infantil:
-  - Isso significa que em países com uma expectativa de vida mais alta, a taxa de mortalidade infantil tende a ser mais baixa. Isso faz sentido porque uma expectativa de vida mais alta geralmente está associada a melhores condições de saúde, acesso a cuidados médicos, nutrição adequada, saneamento básico e outros fatores que contribuem para a sobrevivência das crianças.
+<h3>Data Analysis: Birth Rates, Fertility, and Population Health</h3>
+<ul>
+  <li>This repository contains an analysis of birth rates, fertility rates, and their correlations with various population health indicators. The analysis aims to explore the relationships between fertility, birth rates, life expectancy, infant mortality and others insights. The dataset used for this analysis includes information from various countries.
+</li>
+</ul>
+<br>
+<h3>Key Insights</h3>
+<ul>
+  <li>Fertility Rate vs. Infant Mortality Rate (0.85):</li>
+  <ul>
+    <li>A strong positive correlation (0.85) exists between the fertility rate and the infant mortality rate. This suggests that countries with higher fertility rates may experience greater pressure on healthcare resources to ensure the survival of infants.</li>
+  </ul>
+  <br>
+  <li>Fertility Rate vs. Life Expectancy (-0.85):</li>
+  <ul>
+    <li>A strong negative correlation (-0.85) is observed between the fertility rate and life expectancy. Countries with higher fertility rates tend to have lower life expectancies, possibly due to challenges in providing adequate healthcare and education resources.
+</li>
+  </ul>
+  <br>
+<li>Fertility Rate vs. Birth Rate (0.98):</li>
+<ul>
+  <li>A very strong positive correlation (0.98) exists between the fertility rate and the birth rate. This implies that countries with higher fertility rates also tend to have higher birth rates.
+</li>
+</ul>
+<br>
+<li>Birth Rate vs. Life Expectancy (-0.92):</li>
+<ul>
+  <li>A very strong negative correlation (-0.92) is found between the birth rate and life expectancy. This suggests that in countries with higher birth rates, limited resources may impact life expectancy.
+</li>
+</ul>
+<br>
+<li>Birth Rate vs. Infant Mortality Rate (0.87):</li>
+<ul>
+  <li>A significant positive correlation (0.87) exists between the birth rate and infant mortality rate. This correlation could be attributed to challenges in providing adequate healthcare to mothers and newborns in countries with high birth rates.
+Repository Structure
+</li>
+</ul>
+</ul>
+  
+<h3>Data:</h3>
+<ul>
+  <li>The dataset used is available on <a href="https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023">Kaggle.</a></li>
+</ul>
+<br>
+<h3>Notebooks:</h3>
+<ul>
+  <li><a href="https://github.com/Faabry/Data_Analysis/blob/main/World%20Analytics/World%20Analytics.ipynb">Take a look at my notebook with code and visualizations.</a></li>
+</ul>
+<br>
+<h3> About me: </h3>
+  <a href="https://www.linkedin.com/in/airton-f-225784255/">
+  <img src="https://user-images.githubusercontent.com/110841289/224358942-846f52a8-6945-49ca-8aa7-6719b2f1c603.png" widht="50px" height="50px">
+  </a>
+  <a href="https://www.instagram.com/faa_bry/">
+  <img src="https://user-images.githubusercontent.com/110841289/224359564-da97e372-92b5-4229-9d73-eee2779e16c4.png" widht="50px" height="50px">
+  </a>
