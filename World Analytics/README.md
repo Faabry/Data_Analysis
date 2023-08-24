@@ -48,7 +48,7 @@ Repository Structure
 </ul>
 <br>
 <h3> About me: </h3>
-  <a href="https://www.linkedin.com/in/airton-f-225784255/">
+  <a href="https://www.linkedin.com/in/airton-fabre">
   <img src="https://user-images.githubusercontent.com/110841289/224358942-846f52a8-6945-49ca-8aa7-6719b2f1c603.png" widht="50px" height="50px">
   </a>
   <a href="https://www.instagram.com/faa_bry/">
