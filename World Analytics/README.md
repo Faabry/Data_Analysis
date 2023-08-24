@@ -6,11 +6,14 @@
 
 - Considerando o top 10 highest countries land(km2) e o top mundial china e india lideram com o maior nº de população
 
+
+- Apesar da india ser um dos mais populosos países, apenas 34% de sua população reside em áreas urbanizadas.
+
+
 - Do top 10 highest countries land(km2) argentina tem a maior população vivendo em àreas urbanizadas
 
-- 
 
-- Quanto menor o percentual de àrea agricla, maior é o percentual de florestas.
+- Quanto maior o percentual de àrea agricola, menor é o percentual de florestas.
 
 
 - Quanto maior a população maior a taxa de desemprego
